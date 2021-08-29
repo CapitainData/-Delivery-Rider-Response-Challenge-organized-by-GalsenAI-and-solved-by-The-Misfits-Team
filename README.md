@@ -21,3 +21,5 @@ All data in this subset have been fully anonymised while preserving the distribu
 members to engage in technical and professional conversations in a positive, supportive environment by hosting talks by women 
 and gender minority individuals working in data science or machine learning, as well as hosting technical workshops, networking 
 events and hackathons. We are inclusive to anyone who supports our cause regardless of gender identity or technical background.
+
+N.B.: Run on **Colab with CPU**.

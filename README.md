@@ -1,6 +1,9 @@
 # -Delivery-Rider-Response-Challenge-organized-by-GalsenAI-and-solved-by-The-Misfits-Team
-This is a private hackathon open to Senegalese participants on ![Zindi](https://zindi.africa/hackathons/indabax-senegal-2021). 
+This is a private hackathon open to Senegalese participants on [Zindi](https://zindi.africa/hackathons/indabax-senegal-2021). 
+
 ![](https://im0-tub-com.yandex.net/i?id=7fcb7370d5e446b7ab1f4a06e249285d&n=13)
+
+
 Sendy links customers who have delivery needs with vetted transporters (from bikes to trucks), 
 using a web and mobile application platform as well as an API. Customers select their vehicle of choice, 
 get their price quote upfront and pay using various payment options. The system optimises the route and 
